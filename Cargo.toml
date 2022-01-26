@@ -23,7 +23,7 @@ solana-measure = { git = "https://github.com/solindex/measure.git", version = "=
 solana-metrics = { git = "https://github.com/solindex/metrics.git", version = "=1.8.14" }
 solana-rpc = { git = "https://github.com/solindex/rpc.git", version = "=1.8.14" }
 solana-runtime = { git = "https://github.com/solindex/runtime.git", version = "=1.8.14" }
-solana-sdk = { pgit = "https://github.com/solindex/sdk.git", version = "=1.8.14" }
+solana-sdk = { git = "https://github.com/solindex/sdk.git", version = "=1.8.14" }
 thiserror = "1.0.21"
 
 [package.metadata.docs.rs]
